@@ -54,7 +54,7 @@ python3 ipa.py -h 或 ./ipa -h
 ````
 
 ---
-## 打包可执行文件指令
+## 打包可执行文件指令（将脚本打包成unix可执行文件）
 ````
 pyinstaller -F ipa.py
 ````
