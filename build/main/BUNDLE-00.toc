@@ -1,0 +1,3 @@
+([('main',
+   '/Users/yanjin/Desktop/YanJin-Workspace/PythonProjects/check_ipa/dist/main',
+   'EXECUTABLE')],)
